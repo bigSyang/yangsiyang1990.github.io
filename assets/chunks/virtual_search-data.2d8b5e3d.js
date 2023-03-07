@@ -1,0 +1,1 @@
+const e={},t={},o={previewLength:62,buttonLabel:"Search",placeholder:"Search docs",tokenize:"full",language:"zh",context:!0,preset:"performance"},a={INDEX_DATA:e,PREVIEW_LOOKUP:t,Options:o};export{a as default};
